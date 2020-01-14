@@ -1,0 +1,4 @@
+#Mon Aug 05 15:45:28 EAT 2019
+base.0=C\:\\Users\\Shaleen\\AndroidStudioProjects\\TravelMantics\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
